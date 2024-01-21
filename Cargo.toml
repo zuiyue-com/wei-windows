@@ -1,0 +1,10 @@
+[package]
+name = "wei-windows"
+version = "0.1.1"
+edition = "2021"
+description = "wei windows"
+documentation = "https://github.com/zuiyue-com/wei-windows"
+homepage = "https://github.com/zuiyue-com/wei-windows"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
